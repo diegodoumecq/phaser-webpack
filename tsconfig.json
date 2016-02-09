@@ -22,5 +22,9 @@
         "./app/src/state/Preload.ts",
         "./app/src/state/States.ts"
     ],
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ],
     "compileOnSave": false
 }
